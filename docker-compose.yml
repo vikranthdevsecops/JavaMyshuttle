@@ -16,4 +16,4 @@ services:
       context: ./src/db
       dockerfile: Dockerfile
     expose:
-      - "3306"
+      - "3306" 
